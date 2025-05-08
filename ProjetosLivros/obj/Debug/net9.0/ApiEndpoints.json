@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ProjetosLivros.Control.CategoriaController",
+    "Method": "ListarTodos",
+    "RelativePath": "api/Categoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetosLivros.Control.CategoriaController",
+    "Method": "Cadastrar",
+    "RelativePath": "api/Categoria",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoria",
+        "Type": "ProjetosLivros.Models.Categoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
