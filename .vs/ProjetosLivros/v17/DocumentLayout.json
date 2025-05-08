@@ -1,29 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\",
+  "WorkspaceRootPath": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\c#\\projetoslivros\\projetoslivros\\context\\livroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\code\\projects\\api-livros\\projetoslivros\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|solutionrelative:projetoslivros\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\code\\projects\\api-livros\\projetoslivros\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|solutionrelative:projetoslivros\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\code\\projects\\api-livros\\projetoslivros\\context\\livroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|solutionrelative:projetoslivros\\context\\livroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\c#\\projetoslivros\\projetoslivros\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\code\\projects\\api-livros\\projetoslivros\\interface\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|solutionrelative:projetoslivros\\interface\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\code\\projects\\api-livros\\projetoslivros\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|solutionrelative:projetoslivros\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\code\\projects\\api-livros\\projetoslivros\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|solutionrelative:projetoslivros\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\c#\\projetoslivros\\projetoslivros\\interface\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\code\\projects\\api-livros\\projetoslivros\\interface\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|solutionrelative:projetoslivros\\interface\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\c#\\projetoslivros\\projetoslivros\\control\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|solutionrelative:projetoslivros\\control\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\c#\\projetoslivros\\projetoslivros\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\code\\projects\\api-livros\\projetoslivros\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|solutionrelative:projetoslivros\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\c#\\projetoslivros\\projetoslivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|c:\\users\\vinic\\desktop\\code\\projects\\api-livros\\projetoslivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA7A35D3-49A1-4B21-877B-2CC899454EFC}|ProjetosLivros\\ProjetosLivros.csproj|solutionrelative:projetoslivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +46,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "ProjetosLivros\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Models\\Livro.cs",
+              "RelativeToolTip": "ProjetosLivros\\Models\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:58:36.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Repository\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "ProjetosLivros\\Repository\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Repository\\LivroRepository.cs",
+              "RelativeToolTip": "ProjetosLivros\\Repository\\LivroRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:52:09.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Interface\\ILivroRepository.cs",
+              "RelativeDocumentMoniker": "ProjetosLivros\\Interface\\ILivroRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Interface\\ILivroRepository.cs",
+              "RelativeToolTip": "ProjetosLivros\\Interface\\ILivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:48:20.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\Models\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "ProjetosLivros\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Models\\Categoria.cs",
               "RelativeToolTip": "ProjetosLivros\\Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,65 +102,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\Control\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "ProjetosLivros\\Control\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\Control\\CategoriaController.cs",
-              "RelativeToolTip": "ProjetosLivros\\Control\\CategoriaController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAAtAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "ProjetosLivros\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "ProjetosLivros\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T00:34:32.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\Repository\\CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Repository\\CategoriaRepository.cs",
               "RelativeDocumentMoniker": "ProjetosLivros\\Repository\\CategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\Repository\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Repository\\CategoriaRepository.cs",
               "RelativeToolTip": "ProjetosLivros\\Repository\\CategoriaRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T23:24:47.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ICategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\Interface\\ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Interface\\ICategoriaRepository.cs",
               "RelativeDocumentMoniker": "ProjetosLivros\\Interface\\ICategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\Interface\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Interface\\ICategoriaRepository.cs",
               "RelativeToolTip": "ProjetosLivros\\Interface\\ICategoriaRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T23:12:49.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Program.cs",
               "RelativeDocumentMoniker": "ProjetosLivros\\Program.cs",
-              "ToolTip": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Program.cs",
               "RelativeToolTip": "ProjetosLivros\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T00:50:21.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T00:50:21.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LivrosContext.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\Context\\LivrosContext.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Context\\LivrosContext.cs",
               "RelativeDocumentMoniker": "ProjetosLivros\\Context\\LivrosContext.cs",
-              "ToolTip": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\Context\\LivrosContext.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\Context\\LivrosContext.cs",
               "RelativeToolTip": "ProjetosLivros\\Context\\LivrosContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowBkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T23:32:06.545Z",
               "EditorCaption": ""

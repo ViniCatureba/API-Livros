@@ -5381,11 +5381,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\ProjetosLivros.csproj",
+      "projectUniqueName": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\ProjetosLivros.csproj",
       "projectName": "ProjetosLivros",
-      "projectPath": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\ProjetosLivros.csproj",
+      "projectPath": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\ProjetosLivros.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinic\\Desktop\\C#\\ProjetosLivros\\ProjetosLivros\\obj\\",
+      "outputPath": "C:\\Users\\vinic\\Desktop\\Code\\Projects\\API-Livros\\ProjetosLivros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5481,7 +5481,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

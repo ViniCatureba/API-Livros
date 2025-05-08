@@ -175,3 +175,6 @@ C:\Users\vinic\Desktop\C#\ProjetosLivros\ProjetosLivros\bin\Debug\net9.0\Swashbu
 C:\Users\vinic\Desktop\C#\ProjetosLivros\ProjetosLivros\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\vinic\Desktop\C#\ProjetosLivros\ProjetosLivros\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\vinic\Desktop\C#\ProjetosLivros\ProjetosLivros\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\vinic\Desktop\Code\Projects\API-Livros\ProjetosLivros\obj\Debug\net9.0\ProjetosLivros.dll
+C:\Users\vinic\Desktop\Code\Projects\API-Livros\ProjetosLivros\obj\Debug\net9.0\refint\ProjetosLivros.dll
+C:\Users\vinic\Desktop\Code\Projects\API-Livros\ProjetosLivros\obj\Debug\net9.0\ProjetosLivros.pdb
